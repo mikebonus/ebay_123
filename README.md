@@ -19,13 +19,10 @@
 <b>5)</b> This application enables screen-rotation.<br />
 <img width="560" alt="screen_orientation" src="https://user-images.githubusercontent.com/26533575/176772346-1ee35414-0acd-4da8-a1d5-5eefd9b0189f.png">
 
-<b>6)</b> This application has a simple detail activity protoype (all the earthquakes with magnitude of 8.0 have been filtered). <br />
+<b>6)</b> This application now has a simple detail activity protoype (all the earthquakes with magnitude of 8.0 have been filtered). <br />
 <img width="350" alt="filter" src="https://user-images.githubusercontent.com/26533575/176772322-54d9deba-8771-4f99-bf64-e57b47ac9d1c.png">
 
-<b>7)</b> This application now has a simple detail activity protoype (all the earthquakes with magnitude of 8.0 have been filtered). <br />
-<img width="350" alt="filter" src="https://user-images.githubusercontent.com/26533575/176772322-54d9deba-8771-4f99-bf64-e57b47ac9d1c.png">
-
-<b>8)</b> This application displays the GOOGLE-MAP with the marker focusing on the area where the earthquake happened. <br />
+<b>7)</b> This application displays the GOOGLE-MAP with the marker focusing on the area where the earthquake happened. <br />
 (If the emulator does not show the GOOGLE-MAP, please try with the device) <br />
 ![map](https://user-images.githubusercontent.com/26533575/176775845-2b80b943-7647-41c4-8c38-decdfcf5a9f7.jpg)
 
