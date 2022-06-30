@@ -1,11 +1,12 @@
 # EBAY PROJECT
+
 <br />
 <br />
 <br />
 
 <b>1)</b> This application is based on <b>MVVM</b> design architecture (<b>100% in Kotlin</b>).
 
-<b>2)</b> This application retrieves news data from a remote data source 
+<b>2)</b> This application retrieves news data from a remote data source <br />
 <img width="350" alt="remote-data" src="https://user-images.githubusercontent.com/26533575/176772045-032041d6-6a8b-4884-8a85-8bf10884c39a.png">
 
 <b>3)</b> This application can filter articles using a drop-down menu (2 options but can be extended).
