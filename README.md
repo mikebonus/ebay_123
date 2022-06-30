@@ -27,7 +27,7 @@
 
 <b>7)</b> This application displays the GOOGLE-MAP with the marker focusing on the area where the earthquake happened. <br />
 (If the emulator does not show the GOOGLE-MAP, please try with the device)
-![map](https://user-images.githubusercontent.com/26533575/176775664-91ffafb5-7952-44d3-aa72-c36efe9fec8c.jpg)
+![map](https://user-images.githubusercontent.com/26533575/176775748-a22b511e-6aa3-48a4-8516-08101982d89a.jpg)
 
 
 Thank you. <br /> <br />
