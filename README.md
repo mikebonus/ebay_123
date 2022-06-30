@@ -22,6 +22,12 @@
 <b>6)</b> This application now has a simple detail activity protoype (all the earthquakes with magnitude of 8.0 have been filtered). <br />
 <img width="350" alt="filter" src="https://user-images.githubusercontent.com/26533575/176772322-54d9deba-8771-4f99-bf64-e57b47ac9d1c.png">
 
+<b>6)</b> This application now has a simple detail activity protoype (all the earthquakes with magnitude of 8.0 have been filtered). <br />
+<img width="350" alt="filter" src="https://user-images.githubusercontent.com/26533575/176772322-54d9deba-8771-4f99-bf64-e57b47ac9d1c.png">
+
+<b>7)</b> This application displays GOOGLE-MAP with the marker focusing on the area where the earthquake happens. <br />
+(If the emulator does not work, please try the actual device)
+![map](https://user-images.githubusercontent.com/26533575/176774913-a17f8771-a3e2-4d10-bba2-e9cc6cec612c.jpg)
 
 Thank you. <br /> <br />
 
