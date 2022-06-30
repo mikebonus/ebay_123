@@ -25,6 +25,11 @@
 <b>6)</b> This application now has a simple detail activity protoype (all the earthquakes with magnitude of 8.0 have been filtered). <br />
 <img width="350" alt="filter" src="https://user-images.githubusercontent.com/26533575/176772322-54d9deba-8771-4f99-bf64-e57b47ac9d1c.png">
 
+<b>7)</b> This application displays the GOOGLE-MAP with the marker focusing on the area where the earthquake happened. <br />
+(If the emulator does not show the GOOGLE-MAP, please try with the device)
+![map](https://user-images.githubusercontent.com/26533575/176775664-91ffafb5-7952-44d3-aa72-c36efe9fec8c.jpg)
+
+
 Thank you. <br /> <br />
 
 <b> --------------------PLEASE CLEAN THE PROJECT + REBUILD THE PROJECT BEFORE running the application--------------------- </b>
