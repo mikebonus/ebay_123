@@ -1,7 +1,7 @@
 # EBAY PROJECT
 <br />
 <br />
-
+<br />
 
 <b>1)</b> This application is based on <b>MVVM</b> design architecture (<b>100% in Kotlin</b>).
 
