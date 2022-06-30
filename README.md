@@ -10,7 +10,7 @@
 (http://api.geonames.org/earthquakesJSON?formatted=true&north=44.1&south=-9.9&east=-22.4&west=55.2&username=mkoppelman)
 <img width="350" alt="remote-data" src="https://user-images.githubusercontent.com/26533575/176772045-032041d6-6a8b-4884-8a85-8bf10884c39a.png">
 
-<b>3)</b> This application can filter articles using a drop-down menu (2 options but can be extended).
+<b>3)</b> This application can filter earthquakes using a drop-down menu (2 options but can be extended).
 <img width="350" alt="title" src="https://user-images.githubusercontent.com/26533575/176773438-0dccc317-79b7-4475-90b4-a0f46948b815.png">
 
 <b>4)</b> This application notifies the user when there is a poor network condition. <br/>
