@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ebay</string>
+    <string name="news_name">name</string>
+    <string name="type">type</string>
+    <string name="address">address</string>
+    <string name="all">ALL</string>
+    <string name="serious">SERIOUS</string>
+    <string name="magnitude">magnitude</string>
+    <string name="date">date</string>
+    <string name="depth">depth</string>
+    <string name="country">country</string>
+
+    <string-array name="earthquakes_types">
+        <item>ALL</item>
+        <item>SERIOUS </item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>
